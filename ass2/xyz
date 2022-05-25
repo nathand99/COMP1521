@@ -1,0 +1,13 @@
+total 76
+-rw-r----- 1 z5204935 z5204935   304 Oct  7 15:05 Makefile
+-rw-r----- 1 z5204935 z5204935     0 Oct  5 20:26 a.out
+-rwxr-x--- 1 z5204935 z5204935  7388 Oct  7 15:01 file
+-rw-r----- 1 z5204935 z5204935  1986 Oct  7 15:07 file.c
+-rw-r----- 1 z5204935 z5204935  4825 Oct  7 22:24 history.c
+-rw-r----- 1 z5204935 z5204935   377 Sep 16 21:02 history.h
+-rw-r----- 1 z5204935 z5204935  3204 Oct  7 22:24 history.o
+-rwxr-x--- 1 z5204935 z5204935 17440 Oct  7 22:43 mymysh
+-rw-r----- 1 z5204935 z5204935 12106 Oct  7 22:43 mymysh.c
+-rw-r----- 1 z5204935 z5204935  7280 Oct  7 22:43 mymysh.o
+-rw-r----- 1 z5204935 z5204935   377 Oct  7 22:34 text.txt
+-rw-r----- 1 z5204935 z5204935     0 Oct  7 22:43 xyz
